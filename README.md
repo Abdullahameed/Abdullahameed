@@ -11,19 +11,11 @@
 
 ## 🧑‍💻 Who I Am
 
-```typescript
-const abdullahHameed = {
-  title: "CS Graduate | Aspiring Gen AI & Automation Engineer",
-  stack: ["Python", "SQL", "RAG", "LangChain", "AI/ML"],
-  launchedProjects: [
-    "event-photo-matching",
-    "mindcare-ai-chatbot"
-  ],
-  certifications: [],
-  status: "Open to collaboration on Gen AI & automation projects",
-  openTo: ["AI/ML Engineering", "Automation Engineering", "Gen AI Projects"]
-};
-```
+- 🎓 **Title:** CS Graduate | Aspiring Gen AI & Automation Engineer
+- 🛠️ **Stack:** Python, SQL, RAG, LangChain, AI/ML
+- 🚀 **Launched Projects:** event-photo-matching, mindcare-ai-chatbot
+- 💡 **Status:** Open to collaboration on Gen AI & automation projects
+- 🎯 **Open To:** AI/ML Engineering, Automation Engineering, Gen AI Projects
 
 ## 🚀 Featured Projects
 
