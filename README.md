@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Abdullah%20Hameed&fontSize=42&fontColor=ffffff&animation=twinkling&desc=CS%20Graduate%20%7C%20Aspiring%20Gen%20AI%20and%20Automation%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+with+RAG+%2B+LangChain;Exploring+AI%2FML+Engineering;Automation+%26+Agentic+Workflows" alt="Typing SVG" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Abdullahameed&color=7dd3fc&style=flat-square&label=Profile+Views" />
 <img src="https://img.shields.io/github/followers/Abdullahameed?label=Followers&style=flat-square&color=7dd3fc" />
