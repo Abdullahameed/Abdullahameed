@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Custom SVG Header hosting locally to avoid XML parse and overlapping errors -->
-<img src="./header.svg" width="100%" alt="Abdullah Hameed Header" />
+<!-- Custom SVG Header using absolute URL for 100% reliable rendering on GitHub profiles -->
+![Abdullah Hameed Header](https://raw.githubusercontent.com/Abdullahameed/Abdullahameed/main/header.svg)
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=D946EF&center=true&vCenter=true&width=600&lines=Building+with+RAG+%2B+LangChain;Exploring+AI%2FML+Engineering;Agentic+Workflows+%26+Automation" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=D946EF&center=true&vCenter=true&width=600&lines=Building+with+RAG+and+LangChain;Exploring+AI+and+ML+Engineering;Agentic+Workflows+and+Automation)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abdullahameed&color=d946ef&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/Abdullahameed?label=Followers&style=flat-square&color=d946ef" />
+![Profile Views](https://komarev.com/ghpvc/?username=Abdullahameed&color=d946ef&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Abdullahameed?label=Followers&style=flat-square&color=d946ef)
 
 </div>
 
