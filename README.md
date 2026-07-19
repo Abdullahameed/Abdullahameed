@@ -1,88 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Abdullah%20Hameed&fontSize=42&fontColor=ffffff&animation=twinkling&desc=CS%20Graduate%20%7C%20Aspiring%20Gen%20AI%20and%20Automation%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Abdullah%20Hameed&fontSize=42&fontColor=38bdf8&animation=twinkling&desc=CS%20Graduate%20%7C%20Aspiring%20Gen%20AI%20%26%20Automation%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+with+RAG+%2B+LangChain;Exploring+AI%2FML+Engineering;Automation+%26+Agentic+Workflows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+with+RAG+%2B+LangChain;Exploring+AI%2FML+Engineering;Automation+%26+Agentic+Workflows" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abdullahameed&color=7dd3fc&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/Abdullahameed?label=Followers&style=flat-square&color=7dd3fc" />
+<img src="https://komarev.com/ghpvc/?username=Abdullahameed&color=38bdf8&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/Abdullahameed?label=Followers&style=flat-square&color=38bdf8" />
 
 </div>
 
+<br/>
+
 ## 🧑‍💻 Who I Am
 
-- 🎓 **Title:** CS Graduate | Aspiring Gen AI & Automation Engineer
-- 🛠️ **Stack:** Python, SQL, RAG, LangChain, AI/ML
-- 🚀 **Launched Projects:** event-photo-matching, mindcare-ai-chatbot
-- 💡 **Status:** Open to collaboration on Gen AI & automation projects
-- 🎯 **Open To:** AI/ML Engineering, Automation Engineering, Gen AI Projects
+```typescript
+const abdullahHameed = {
+  role: "CS Graduate | Aspiring Gen AI & Automation Engineer",
+  stack: ["Python", "SQL", "RAG", "LangChain", "AI/ML"],
+  focus: ["LLM Orchestration", "Agentic Workflows", "Automation Pipelines"],
+  status: "Open to collaboration on Gen AI & automation projects",
+  interests: ["Generative AI", "Multi-Agent Systems", "Full-Stack AI Apps"]
+};
+```
 
 ## 🚀 Featured Projects
 
-### 📸 Event Photo Matching
-Event photo face-matching web app where attendees upload a selfie to instantly find all matching event photos, powered by AWS Rekognition and S3.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📸 Event Photo Matching</h3>
+      <p align="left">Event photo face-matching web app where attendees upload a selfie to instantly find all matching event photos, powered by AWS Rekognition and S3.</p>
+      <p>
+        <a href="https://eventphoto-matching-app.vercel.app"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/Abdullahameed/event-photo-matching"><b>💻 Code</b></a>
+      </p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 MindCare AI Chatbot</h3>
+      <p align="left">An AI-powered mental health chatbot utilizing Retrieval-Augmented Generation (RAG) and LangChain for highly contextual and supportive conversations.</p>
+      <p>
+        <a href="https://mindcare-ai-chatbot.vercel.app/"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/Abdullahameed/mindcare-ai-chatbot"><b>💻 Code</b></a>
+      </p>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logo=openai&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullahameed&repo=event-photo-matching&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+## 🛠️ Tech Stack & Skills
 
-| Layer | Technology |
-|---|---|
-| Frontend | Next.js |
-| Backend | FastAPI |
-| Matching | AWS Rekognition |
+<div align="center">
 
-🔗 [Live Demo](https://eventphoto-matching-app.vercel.app) &nbsp;|&nbsp; 💻 [Code](https://github.com/Abdullahameed/event-photo-matching)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,postgres,mysql,fastapi,nextjs,react,aws,docker,git,github&theme=dark)](https://skillicons.dev)
 
-<br clear="left"/>
+<br/>
 
-### 🧠 MindCare AI Chatbot
-An AI-powered mental health chatbot.
+<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_Workflows-38bdf8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDQgMTJsOCAxMCA4LTEwTDExIDJ6Ii8+PC9zdmc+&logoColor=white" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullahameed&repo=mindcare-ai-chatbot&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
-
-| Layer | Technology |
-|---|---|
-| AI | RAG, LangChain |
-
-🔗 [Live Demo](https://mindcare-ai-chatbot.vercel.app/) &nbsp;|&nbsp; 💻 [Code](https://github.com/Abdullahameed/mindcare-ai-chatbot)
-
-<br clear="left"/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-**AI / DB**
-
-<img src="https://skillicons.dev/icons?i=" />
-<img alt="RAG" src="https://img.shields.io/badge/RAG-7dd3fc?style=flat-square&logoColor=white" />
-<img alt="LangChain" src="https://img.shields.io/badge/LangChain-7dd3fc?style=flat-square&logoColor=white" />
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullahameed&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahameed&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullahameed&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&border_color=38bdf8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahameed&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=38bdf8" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=Abdullahameed&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Abdullahameed&theme=tokyonight&background=0d1117&border=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="70%" />
 
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abdullahameed&theme=nord&no-frame=true&no-bg=true&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Abdullahameed&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </div>
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullahameed&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" width="100%" />
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullahameed&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
 
 ## 🔗 Connect With Me
 
@@ -93,4 +104,6 @@ An AI-powered mental health chatbot.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
