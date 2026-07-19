@@ -75,8 +75,8 @@ const abdullahHameed = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullahameed&amp;show_icons=true&amp;bg_color=0b0a15&amp;title_color=d946ef&amp;text_color=e2e8f0&amp;icon_color=d946ef&amp;border_color=d946ef" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahameed&amp;layout=compact&amp;bg_color=0b0a15&amp;title_color=d946ef&amp;text_color=e2e8f0&amp;border_color=d946ef" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Abdullahameed&amp;show_icons=true&amp;bg_color=0b0a15&amp;title_color=d946ef&amp;text_color=e2e8f0&amp;icon_color=d946ef&amp;border_color=d946ef" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdullahameed&amp;layout=compact&amp;bg_color=0b0a15&amp;title_color=d946ef&amp;text_color=e2e8f0&amp;border_color=d946ef" width="48%" />
 
 <br/>
 
