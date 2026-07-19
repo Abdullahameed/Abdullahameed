@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Abdullah%20Hameed&fontSize=42&fontColor=38bdf8&animation=twinkling&desc=CS%20Graduate%20%7C%20Aspiring%20Gen%20AI%20and%20Automation%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
+<!-- Custom SVG Header hosting locally to avoid XML parse and overlapping errors -->
+<img src="./header.svg" width="100%" alt="Abdullah Hameed Header" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=D946EF&center=true&vCenter=true&width=600&lines=Building+with+RAG+%2B+LangChain;Exploring+AI%2FML+Engineering;Agentic+Workflows+%26+Automation" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+with+RAG+%2B+LangChain;Exploring+AI%2FML+Engineering;Automation+%26+Agentic+Workflows" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Abdullahameed&color=38bdf8&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/Abdullahameed?label=Followers&style=flat-square&color=38bdf8" />
+<img src="https://komarev.com/ghpvc/?username=Abdullahameed&color=d946ef&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/Abdullahameed?label=Followers&style=flat-square&color=d946ef" />
 
 </div>
 
@@ -66,7 +67,7 @@ const abdullahHameed = {
 
 <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentic_Workflows-38bdf8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDQgMTJsOCAxMCA4LTEwTDExIDJ6Ii8+PC9zdmc+&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_Workflows-d946ef?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDQgMTJsOCAxMCA4LTEwTDExIDJ6Ii8+PC9zdmc+&logoColor=white" />
 
 </div>
 
@@ -74,12 +75,12 @@ const abdullahHameed = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullahameed&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&border_color=38bdf8" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahameed&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=38bdf8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullahameed&show_icons=true&bg_color=0b0a15&title_color=d946ef&text_color=e2e8f0&icon_color=d946ef&border_color=d946ef" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahameed&layout=compact&bg_color=0b0a15&title_color=d946ef&text_color=e2e8f0&border_color=d946ef" width="48%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Abdullahameed&theme=tokyonight&background=0d1117&border=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Abdullahameed&theme=tokyonight&background=0b0a15&border=d946ef&ring=d946ef&fire=d946ef&currStreakLabel=e2e8f0&sideNums=e2e8f0&sideLabels=e2e8f0" width="70%" />
 
 </div>
 
@@ -92,7 +93,7 @@ const abdullahHameed = {
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullahameed&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullahameed&bg_color=0b0a15&color=d946ef&line=d946ef&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 ## 🔗 Connect With Me
